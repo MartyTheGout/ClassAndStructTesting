@@ -7,5 +7,11 @@
 
 import Foundation
 
-print("Hello, World!")
+// 첫번째 질문
+// testCopyOnAssignmnet()
 
+// 두번째 질문
+testARCOnEmbeddingClass()
+
+// 세번째 질문
+//testARCOnClassEmbeddingStruct()
